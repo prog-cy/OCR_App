@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/capture_image"
+        android:title="@string/capture"
+        android:icon="@drawable/ic_menu_camera"
+        app:showAsAction="always"
+        tools:ignore="AlwaysShowAction" />
+
+    <item
+        android:id="@+id/read_text"
+        android:title="@string/reading"
+        android:icon="@drawable/speaker"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/share_text"
+        android:title="@string/share_detected_tex"
+        android:icon="@drawable/ic_share_button"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/choose_image"
+        android:title="@string/select_from_internal_storage"
+        app:showAsAction="never"/>
+</menu>

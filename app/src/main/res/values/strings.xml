@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OCRApp</string>
+    <string name="todo">TODO</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="read_text">Read Text</string>
+    <string name="capture">capture</string>
+    <string name="select_from_internal_storage">Select from Internal Storage</string>
+    <string name="reading">reading</string>
+    <string name="share_detected_tex">Share Detected tex</string>
+</resources>
