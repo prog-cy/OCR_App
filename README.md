@@ -1,4 +1,4 @@
-# OCR(Optical Character Recognition) App.
+# Quicker(Android Application)
 
 <p align="center">
     <img src="https://github.com/prog-cy/OCR_App/blob/master/screen1.jpeg" width = "200" height = "400" 

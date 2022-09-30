@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">OCRApp</string>
+    <string name="app_name">Quicker</string>
     <string name="todo">TODO</string>
     <string name="choose_image">Choose Image</string>
     <string name="read_text">Read Text</string>

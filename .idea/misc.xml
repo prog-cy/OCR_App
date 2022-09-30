@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/MobileAppDev/OCRApp/app/src/main/res/drawable-v24/speaker.xml" value="0.171" />
+        <entry key="..\:/MobileAppDev/OCRApp/app/src/main/res/drawable/background_border.xml" value="0.171" />
+        <entry key="..\:/MobileAppDev/OCRApp/app/src/main/res/drawable/card_border.xml" value="0.171" />
         <entry key="..\:/MobileAppDev/OCRApp/app/src/main/res/drawable/ic_menu_camera.xml" value="0.171" />
         <entry key="..\:/MobileAppDev/OCRApp/app/src/main/res/drawable/main_activity_background.xml" value="0.171" />
         <entry key="..\:/MobileAppDev/OCRApp/app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
         <entry key="..\:/MobileAppDev/OCRApp/app/src/main/res/menu/menu_image_load.xml" value="0.19166666666666668" />
+        <entry key="..\:/MobileAppDev/OCRApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.171" />
       </map>
     </option>
   </component>
